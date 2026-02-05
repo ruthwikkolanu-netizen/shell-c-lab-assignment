@@ -1,0 +1,9 @@
+aeiou
+bbb
+apple
+sky
+Queue
+crypt
+bake
+try
+
