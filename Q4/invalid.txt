@@ -1,0 +1,4 @@
+wrong@email.org
+no_at_symbol.com
+abc@domain123.com
+abc_12@gmail.com

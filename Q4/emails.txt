@@ -1,0 +1,8 @@
+abc123@gmail.com
+wrong@email.org
+john99@yahoo.com
+john99@yahoo.com
+A1@site.com
+no_at_symbol.com
+abc@domain123.com
+abc_12@gmail.com
